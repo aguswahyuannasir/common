@@ -11,18 +11,18 @@ Job Application - Backend Developer
 - Username: admin
 - Password: admin
 
-![file](https://github.com/aguswahyuannasir/common/img/auth.png)
+![file](https://github.com/aguswahyuannasir/common/blob/master/img/auth.png)
 
 ## Create 
 - POST
 - http://localhost:8000/
 
-![file](https://github.com/aguswahyuannasir/common/img/create.png)
+![file](https://github.com/aguswahyuannasir/common/blob/master/img/create.png)
 ## Read
 - GET
 - http://localhost:8000/
 
-![file](https://github.com/aguswahyuannasir/common/img/read.png)
+![file](https://github.com/aguswahyuannasir/common/blob/master/img/read.png)
 
 
 ## Update
@@ -34,11 +34,11 @@ Job Application - Backend Developer
     -- password :
     -- port :
 
-![file](https://github.com/aguswahyuannasir/common/img/update.png)
+![file](https://github.com/aguswahyuannasir/common/blob/master/img/update.png)
 
 
 ## Delete
 - DELETE
 - http://localhost:8000/
 
-![file](https://github.com/aguswahyuannasir/common/img/delete.png)
+![file](https://github.com/aguswahyuannasir/common/blob/master/img/delete.png)
