@@ -1,0 +1,26 @@
+{
+  "name": "commonextract",
+  "version": "1.0.0",
+  "description": "test backend developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguswahyuannasir/common.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "agus wahyu annasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguswahyuannasir/common/issues"
+  },
+  "homepage": "https://github.com/aguswahyuannasir/common#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
