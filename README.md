@@ -1,6 +1,8 @@
 # commonextract.com
 Job Application - Backend Developer
 
+API ini dibuat untuk test startup di malaysia
+
 ## running
 - git clone https://github.com/aguswahyuannasir/common.git
 - cd common
@@ -42,3 +44,4 @@ Job Application - Backend Developer
 - http://localhost:8000/
 
 ![file](https://github.com/aguswahyuannasir/common/blob/master/img/delete.png)
+
